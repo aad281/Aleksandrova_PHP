@@ -1,0 +1,27 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+#container {
+    width: 970px;
+    border: 1px solid black;
+    margin: auto;
+}
+#head {
+    background: #ccc;
+    padding: 15px;
+}
+#content {
+    margin-top: 5px;
+    padding: 5px;
+    background: #ccc;
+    overflow: hidden;
+    font-family: "Bodoni MT";
+}
+#footer{
+    margin-top: 5px;
+    background: #ccc;
+    padding: 15px;
+}
